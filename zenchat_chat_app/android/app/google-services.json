@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187867864847",
+    "project_id": "zenchat-chatting-app",
+    "storage_bucket": "zenchat-chatting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187867864847:android:45507f7374e684b951687a",
+        "android_client_info": {
+          "package_name": "com.example.zenchat_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuz4GFRRNoESSHzd91bIUIpg5vUEh2v-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
